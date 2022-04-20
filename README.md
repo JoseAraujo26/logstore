@@ -5,7 +5,7 @@
   ## Input usuário cadastrado
   {
     "address": ENDEREÇO DO USUÁRIO,
-    "requests": [
+    "requestsList": [
       {
         "flavors": [ID DO SABOR, ID DO SABOR]
       },
